@@ -1,11 +1,14 @@
 ## Hi there 👋
-##My name is FELICIA AWOYEMI
+## This is FELICIA AWOYEMI
+
+## I am an entry level Data Analyst/Economist
 
 
-- 🔭 I’m currently working on breaking into the technology world ...
-- 🌱 I’m currently learning data analysis with daehel techies...
-- 👯 I’m looking to collaborate on all kinds of data analysis projects...
-- 🤔 I’m looking for help with materials, trainings and even collaborations that will help me grow in my feild ...
-you can reach me via my email @ awoyemi.felicia@yahoo.com ...
-- ⚡ Fun fact: I am an educationist specialized in economics and statistics ...
+ I’m currently breaking into the technology world  
+ I’m studying data analysis with daehel techies
+ I’m looking to collaborate on all kinds of data analysis projects
+ I’m looking for help with materials, trainings and even collaborations that will help me grow in my feild 
+ You can reach me via my email @ awoyemi.felicia@yahoo.com 
+ Also on [LINKEDIN](www.linkedin.com/in/felicia-awoyemi-602533229)
+ Fun fact: I am an educationist specialized in economics and statistics 
 
