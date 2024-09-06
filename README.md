@@ -1,5 +1,5 @@
 ## Hi there 👋
-## This is FELICIA AWOYEMI
+# This is FELICIA AWOYEMI
 
 ## I am an entry level Data Analyst/Economist
 
@@ -9,6 +9,6 @@
  I’m looking to collaborate on all kinds of data analysis projects
  I’m looking for help with materials, trainings and even collaborations that will help me grow in my feild 
  You can reach me via my email @ awoyemi.felicia@yahoo.com 
- Also on [LINKEDIN](www.linkedin.com/in/felicia-awoyemi-602533229)
+ Also on [LINKEDIN](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
  Fun fact: I am an educationist specialized in economics and statistics 
 
